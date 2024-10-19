@@ -1,2 +1,3 @@
 # my-first-github-file
-author-Alina Sony
+author-Alina Sony (as)
+
